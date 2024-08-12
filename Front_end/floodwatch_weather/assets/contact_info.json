@@ -1,0 +1,75 @@
+[
+  {
+    "category": "Emergency Contacts",
+    "contacts": [
+      {
+        "name": "Emergency Services",
+        "phone": "1122",
+        "email": "emergency@services.com",
+        "description": "National emergency hotline for immediate assistance."
+      },
+      {
+        "name": "Local Police",
+        "phone": "15",
+        "email": "police@localgov.com",
+        "description": "Contact local police for crime and emergency reporting."
+      }
+    ]
+  },
+  {
+    "category": "Flood Relief Organizations",
+    "contacts": [
+      {
+        "name": "Flood Relief Fund",
+        "phone": "1122",
+        "email": "info@floodrelief.org",
+        "description": "Organization providing support and resources during floods."
+      },
+      {
+        "name": "Red Cross",
+        "phone": "1121",
+        "email": "contact@redcross.org",
+        "description": "Non-profit organization offering disaster relief."
+      }
+    ]
+  },
+  {
+    "category": "Technical Support",
+    "contacts": [
+      {
+        "name": "App Support",
+        "phone": "15",
+        "email": "support@app.com",
+        "description": "Contact for technical assistance with the app."
+      }
+    ]
+  },
+  {
+    "category": "General Information",
+    "contacts": [
+      {
+        "name": "City Hall",
+        "phone": "115",
+        "email": "info@cityhall.com",
+        "description": "Contact for non-emergency inquiries related to city services."
+      }
+    ]
+  },
+  {
+    "category": "Social Media",
+    "contacts": [
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/",
+        "description": "Follow us on Twitter for updates.",
+        "image": "assets/twitter.png"
+      },
+      {
+        "name": "Facebook",
+        "link": "https://facebook.com/",
+        "description": "Like our Facebook page for more information.",
+        "image": "assets/fb.png"
+      }
+    ]
+  }
+]

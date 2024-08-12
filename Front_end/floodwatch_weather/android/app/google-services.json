@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4431610656",
+    "project_id": "floodpredictiondb-1fd53",
+    "storage_bucket": "floodpredictiondb-1fd53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4431610656:android:b433e308e3475233148d45",
+        "android_client_info": {
+          "package_name": "com.flood.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcimPWq8eo5idqtmdBO_M5_XED_Ei9Hpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

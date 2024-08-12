@@ -1,0 +1,53 @@
+[
+  {
+    "heading": "Before a Flood",
+    "tips": [
+      {
+        "text": "Create an emergency kit with essential supplies such as water, food, medications, and important documents.",
+        "image": "assets/tipimg1.jpg"
+      },
+      {
+        "text": "Prepare your home by securing loose items, moving valuables to higher ground, and turning off utilities.",
+        "image": "assets/tipimg2.jpg"
+      },
+      {
+        "text": "Develop a family emergency plan with evacuation routes and meeting points.",
+        "image": "assets/tipimg3.jpeg"
+      }
+    ]
+  },
+  {
+    "heading": "During a Flood",
+    "tips": [
+      {
+        "text": "Stay informed about the flood situation through local authorities and weather alerts.",
+        "image": "assets/tipimg4.jpeg"
+      },
+      {
+        "text": "Avoid walking or driving through floodwaters, as they can be deeper or faster-moving than they appear.",
+        "image": "assets/tipimg5.jpeg"
+      },
+      {
+        "text": "If instructed to evacuate, leave immediately and follow evacuation routes to higher ground.",
+        "image": "assets/tipimg6.jpeg"
+      }
+    ]
+  },
+  {
+    "heading": "After a Flood",
+    "tips": [
+      {
+        "text": "Wait for authorities to declare it safe before returning home or entering flood-affected areas.",
+        "image": "assets/tipimg1.jpg"
+      },
+      {
+        "text": "Avoid contact with floodwaters, as they may be contaminated with sewage or hazardous chemicals.",
+        "image": "assets/tipimg2.jpg"
+      },
+      {
+        "text": "Document damage to your property and belongings for insurance claims.",
+        "image": "assets/tipimg2.jpg"
+      }
+    ]
+  }
+]
